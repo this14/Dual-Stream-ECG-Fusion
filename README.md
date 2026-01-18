@@ -32,4 +32,4 @@ If you use this metadata in your research, please cite our paper:
 
 **Chuelwon Lee**
 * RAQA Team, HUINNO Co., Ltd.
-* Contact: lcw@huinno.com
+* Contact: this14@naver.com
